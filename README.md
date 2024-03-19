@@ -1,4 +1,4 @@
-*Expense Tracker Project*
+**Expense Tracker Project**
 
 This project is a beginner-level expense tracker developed using Python programming language. The goal of this project is to help beginners understand the fundamentals of Python programming and basic file handling, specifically CSV file manipulation.
 
