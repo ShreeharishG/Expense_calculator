@@ -22,8 +22,8 @@ This project is a beginner-level expense tracker developed using Python programm
 
 File Structure
 
-- **`expense_tracker.py`:** Main Python script containing the expense tracker functionality.
-- **`expenses.csv`:**CSV file used to store expense data.
+- `expense_tracker.py`: Main Python script containing the expense tracker functionality.
+- 'expenses.csv`: CSV file used to store expense data.
 
 **Contribution**
 
