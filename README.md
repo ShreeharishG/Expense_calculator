@@ -11,8 +11,8 @@ Features
 Getting Started
 
 1. Installation: Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
-2. Clone the Repository: Clone or download the project repository from [GitHub link](https://github.com/your-username/expense-tracker).
-3. Run the Program: Open the project directory in your preferred Python IDE (such as VS Code). Run the `expense_tracker.py` file to start the program.
+2. Clone the Repository: Clone or download the project repository from https://github.com/ShreeharishG/Expense_calculator.
+3. Run the Program: Open the project directory in your preferred Python IDE (such as VS Code).Run the `expense_tracker.py` file to start the program.
 
 Usage
 
